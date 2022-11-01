@@ -1,0 +1,15 @@
+let name1 = "puneet";
+let name2 = "ramesh";
+let name3 = "diljit";
+let school = "kvjc";
+let grade = " A , B , C , D ";
+let section = " A ";
+let rollno = " 23 , 43 , 25 ";
+let total_marks = " 450 ";
+let name1_marks = "100";
+let name2_marks = "90";
+let name3_marks = "130";
+console.log("Result of Students","NAME","GRADE","Rollno","Marks","Pass/Fail" );
+console.log("result of puneet is", name1 + " " + " B " + "    23 " + name1_marks + "   Pass");
+console.log("result of ramesh is", name2 + " " + " c " + "    43 " + name2_marks + "    Pass");
+console.log("result of diljit is", name3 + " " + " A " + "    25 " + name3_marks + "   Pass");
